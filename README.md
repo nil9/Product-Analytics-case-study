@@ -19,5 +19,4 @@ d. any other considerations the PM should keep in mind
 ## Output
 Please visualize all your findings / reasoning in an appropriate way.
 Consolidate all your findings into a short (5-10min) PPT / Google Slides Presentation.
-Imagine this will be aimed at the Product Leadership Team. You will present these slides
-during your technical interview.
+Imagine this will be aimed at the Product Leadership Team. 
